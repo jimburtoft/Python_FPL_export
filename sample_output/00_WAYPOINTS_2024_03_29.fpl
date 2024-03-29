@@ -1,0 +1,321 @@
+<?xml version='1.0' encoding='utf-8'?>
+<flight-plan xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www8.garmin.com/xmlschemas/FlightPlan/v1 http://www8.garmin.com/xmlschemas/FlightPlanv1.xsd">
+  <waypoint-table>
+    <waypoint>
+      <identifier>LINE0P0</identifier>
+      <type>USER WAYPOINT</type>
+      <country-code/>
+      <lat>41.6012747</lat>
+      <lon>-74.8882822</lon>
+      <comment>NO COMMENT</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>LINE0P1</identifier>
+      <type>USER WAYPOINT</type>
+      <country-code/>
+      <lat>42.5990142</lat>
+      <lon>-76.8988384</lon>
+      <comment>NO COMMENT</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>LINE0P2</identifier>
+      <type>USER WAYPOINT</type>
+      <country-code/>
+      <lat>39.5741533</lat>
+      <lon>-71.0151773</lon>
+      <comment>NO COMMENT</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>LINE0P3</identifier>
+      <type>USER WAYPOINT</type>
+      <country-code/>
+      <lat>42.5719024</lat>
+      <lon>-71.0257329</lon>
+      <comment>NO COMMENT</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>LINE1P0</identifier>
+      <type>USER WAYPOINT</type>
+      <country-code/>
+      <lat>41.5770622</lat>
+      <lon>-71.0276353</lon>
+      <comment>NO COMMENT</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>LINE1P1</identifier>
+      <type>USER WAYPOINT</type>
+      <country-code/>
+      <lat>38.5793133</lat>
+      <lon>-72.0170791</lon>
+      <comment>NO COMMENT</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>LINE1P2</identifier>
+      <type>USER WAYPOINT</type>
+      <country-code/>
+      <lat>37.6041761</lat>
+      <lon>-72.900732</lon>
+      <comment>NO COMMENT</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>LINE1P3</identifier>
+      <type>USER WAYPOINT</type>
+      <country-code/>
+      <lat>45.6064368</lat>
+      <lon>-69.890175</lon>
+      <comment>NO COMMENT</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>LINE2P0</identifier>
+      <type>USER WAYPOINT</type>
+      <country-code/>
+      <lat>32.6115988</lat>
+      <lon>-66.8920681</lon>
+      <comment>NO COMMENT</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>LINE2P1</identifier>
+      <type>USER WAYPOINT</type>
+      <country-code/>
+      <lat>35.6093379</lat>
+      <lon>-78.9026258</lon>
+      <comment>NO COMMENT</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>LINE2P2</identifier>
+      <type>USER WAYPOINT</type>
+      <country-code/>
+      <lat>33.5844732</lat>
+      <lon>-71.0189811</lon>
+      <comment>NO COMMENT</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>LINE2P3</identifier>
+      <type>USER WAYPOINT</type>
+      <country-code/>
+      <lat>29.5822219</lat>
+      <lon>-80.0295381</lon>
+      <comment>NO COMMENT</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>LINE3P0</identifier>
+      <type>USER WAYPOINT</type>
+      <country-code/>
+      <lat>21.5873816</lat>
+      <lon>-53.0314412</lon>
+      <comment>NO COMMENT</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>LINE3P1</identifier>
+      <type>USER WAYPOINT</type>
+      <country-code/>
+      <lat>12.589633</lat>
+      <lon>-10.0208834</lon>
+      <comment>NO COMMENT</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>LINE3P2</identifier>
+      <type>USER WAYPOINT</type>
+      <country-code/>
+      <lat>43.6144998</lat>
+      <lon>-78.90452</lon>
+      <comment>NO COMMENT</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>LINE3P3</identifier>
+      <type>USER WAYPOINT</type>
+      <country-code/>
+      <lat>23.6167609</lat>
+      <lon>-51.8939615</lon>
+      <comment>NO COMMENT</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>LINE4P0</identifier>
+      <type>USER WAYPOINT</type>
+      <country-code/>
+      <lat>25.6219228</lat>
+      <lon>-25.8958552</lon>
+      <comment>NO COMMENT</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>LINE4P1</identifier>
+      <type>USER WAYPOINT</type>
+      <country-code/>
+      <lat>31.6196616</lat>
+      <lon>-31.9064144</lon>
+      <comment>NO COMMENT</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>LINE4P2</identifier>
+      <type>USER WAYPOINT</type>
+      <country-code/>
+      <lat>86.5947928</lat>
+      <lon>-51.0227861</lon>
+      <comment>NO COMMENT</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>LINE4P3</identifier>
+      <type>USER WAYPOINT</type>
+      <country-code/>
+      <lat>23.5925412</lat>
+      <lon>-75.0333446</lon>
+      <comment>NO COMMENT</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>LINE5P0</identifier>
+      <type>USER WAYPOINT</type>
+      <country-code/>
+      <lat>31.5977008</lat>
+      <lon>-55.0352483</lon>
+      <comment>NO COMMENT</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>LINE5P1</identifier>
+      <type>USER WAYPOINT</type>
+      <country-code/>
+      <lat>22.5999526</lat>
+      <lon>-56.024689</lon>
+      <comment>NO COMMENT</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>LINE5P2</identifier>
+      <type>USER WAYPOINT</type>
+      <country-code/>
+      <lat>23.6248233</lat>
+      <lon>-55.9083092</lon>
+      <comment>NO COMMENT</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>LINE5P3</identifier>
+      <type>USER WAYPOINT</type>
+      <country-code/>
+      <lat>61.6270848</lat>
+      <lon>-83.8977492</lon>
+      <comment>NO COMMENT</comment>
+    </waypoint>
+  </waypoint-table>
+  <route>
+    <route-name>AIR ROUTE</route-name>
+    <flight-plan-index>1</flight-plan-index>
+    <route-point>
+      <waypoint-identifier>LINE0P0</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+      <waypoint-country-code/>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>LINE0P1</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+      <waypoint-country-code/>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>LINE0P2</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+      <waypoint-country-code/>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>LINE0P3</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+      <waypoint-country-code/>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>LINE1P0</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+      <waypoint-country-code/>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>LINE1P1</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+      <waypoint-country-code/>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>LINE1P2</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+      <waypoint-country-code/>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>LINE1P3</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+      <waypoint-country-code/>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>LINE2P0</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+      <waypoint-country-code/>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>LINE2P1</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+      <waypoint-country-code/>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>LINE2P2</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+      <waypoint-country-code/>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>LINE2P3</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+      <waypoint-country-code/>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>LINE3P0</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+      <waypoint-country-code/>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>LINE3P1</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+      <waypoint-country-code/>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>LINE3P2</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+      <waypoint-country-code/>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>LINE3P3</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+      <waypoint-country-code/>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>LINE4P0</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+      <waypoint-country-code/>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>LINE4P1</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+      <waypoint-country-code/>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>LINE4P2</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+      <waypoint-country-code/>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>LINE4P3</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+      <waypoint-country-code/>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>LINE5P0</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+      <waypoint-country-code/>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>LINE5P1</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+      <waypoint-country-code/>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>LINE5P2</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+      <waypoint-country-code/>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>LINE5P3</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+      <waypoint-country-code/>
+    </route-point>
+  </route>
+</flight-plan>
