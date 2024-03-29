@@ -21,7 +21,7 @@ cd Python_FPL_export
 python -m venv fpl-env
 fpl-env\Scripts\activate
 (fpl-env)python -m pip install -r requirements.txt
-(fpl-env)python -m export_fpl.py
+(fpl-env)python export_fpl.py
 ```
 
 If you don't change the output directory, you will also need to create C:\OutputDir\FPLdir
